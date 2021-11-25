@@ -1,0 +1,49 @@
+PRESENTATION
+    
+
+
+NOTES
+    Seperation - normally hard to decide what is single responsabiltiy
+    Easy to refractor after we have test
+    normal - u write code, u write test, and test might not even be used ever
+
+    The Liar
+    feeling of safe when yo uare not can lead to reckless behaviuor
+    
+    correction - delete test and practise TDD
+
+    Excessive Setup
+    tight coupling
+
+    The Giant - several assertions, big chunk of code
+    growns iteratively, organicly
+    hard to exactly know what it asserts 
+    hard to know what part of the code didnt work
+
+    The Mockery
+    everything is mocked and no logic is tested
+
+    The Inspector - violates encapsulation in order to make assertions
+    we should test code that is seen externally
+    testing methods that should be private would test not the outcome of the code but the implementation
+
+
+    test covergaee is a bad practise - wrong behaviuors instead of real value
+
+
+    private methods
+
+    leidzia aprasyti ko tikimes
+    running before code checks if the code is testing something (fail means its working bcs no code is implemented)
+    just enough code to get test pass
+    refractor
+
+    unit testing is about testing, tdd is about development (design)
+
+    code quality
+        works - test does it
+        easy to read - SR, able to refractor easly
+        testable - test proves it
+        easy to maintain - SR
+        efficient - 
+    
