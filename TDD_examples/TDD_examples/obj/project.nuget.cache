@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wBBOCZi6v4ZKNtasAqY3VZP95swj0YuRa7dbIqVWKaYohauVAovqxRxJkgi5+vPIAKOXK/Pje2SH5zKGDHfsEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rytis\\Desktop\\Testing_LW2\\TDD_examples\\TDD_examples\\TDD_examples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rytis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
