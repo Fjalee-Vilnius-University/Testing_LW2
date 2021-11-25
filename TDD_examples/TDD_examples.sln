@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_examples", "TDD_examples\TDD_examples.csproj", "{CEB2E147-CE41-4B2C-8A67-00A49B27BBB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDD_examples", "TDD_examples\TDD_examples.csproj", "{CEB2E147-CE41-4B2C-8A67-00A49B27BBB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{06D1C096-6EB1-490F-B851-91E21ED95818}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{06D1C096-6EB1-490F-B851-91E21ED95818}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingleResponsability", "SingleResponsability", "{4B49464C-6CB7-4536-9ECD-5327075FE099}"
+	ProjectSection(SolutionItems) = preProject
+		TDD_examples\BetterCar.cs = TDD_examples\BetterCar.cs
+		UnitTests\BetterCarUnitTests.cs = UnitTests\BetterCarUnitTests.cs
+		TDD_examples\Car.cs = TDD_examples\Car.cs
+		UnitTests\CarUnitTests.cs = UnitTests\CarUnitTests.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

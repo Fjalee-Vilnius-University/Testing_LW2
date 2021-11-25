@@ -10,8 +10,6 @@ NOTES
     The Liar
     feeling of safe when yo uare not can lead to reckless behaviuor
     
-    correction - delete test and practise TDD
-
     Excessive Setup
     tight coupling
 
