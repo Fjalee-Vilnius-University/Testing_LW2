@@ -5083,11 +5083,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rytis\\Desktop\\Testing_LW2\\TDD_examples\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Rytis\\Desktop\\temp\\Testing_LW2\\TDD_examples\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "C:\\Users\\Rytis\\Desktop\\Testing_LW2\\TDD_examples\\UnitTests\\UnitTests.csproj",
+      "projectPath": "C:\\Users\\Rytis\\Desktop\\temp\\Testing_LW2\\TDD_examples\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\Rytis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rytis\\Desktop\\Testing_LW2\\TDD_examples\\UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\Rytis\\Desktop\\temp\\Testing_LW2\\TDD_examples\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -5108,8 +5108,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Rytis\\Desktop\\Testing_LW2\\TDD_examples\\TDD_examples\\TDD_examples.csproj": {
-              "projectPath": "C:\\Users\\Rytis\\Desktop\\Testing_LW2\\TDD_examples\\TDD_examples\\TDD_examples.csproj"
+            "C:\\Users\\Rytis\\Desktop\\temp\\Testing_LW2\\TDD_examples\\TDD_examples\\TDD_examples.csproj": {
+              "projectPath": "C:\\Users\\Rytis\\Desktop\\temp\\Testing_LW2\\TDD_examples\\TDD_examples\\TDD_examples.csproj"
             }
           }
         }

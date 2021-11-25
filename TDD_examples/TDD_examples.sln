@@ -8,11 +8,18 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{06D1C096-6EB1-490F-B851-91E21ED95818}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingleResponsability", "SingleResponsability", "{4B49464C-6CB7-4536-9ECD-5327075FE099}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "before", "before", "{2168991F-5C9B-4E4D-B469-36AE40814B75}"
 	ProjectSection(SolutionItems) = preProject
-		TDD_examples\BetterCar.cs = TDD_examples\BetterCar.cs
-		UnitTests\BetterCarUnitTests.cs = UnitTests\BetterCarUnitTests.cs
-		TDD_examples\Car.cs = TDD_examples\Car.cs
-		UnitTests\CarUnitTests.cs = UnitTests\CarUnitTests.cs
+		TDD_examples\SingleResponsability\Car.cs = TDD_examples\SingleResponsability\Car.cs
+		UnitTests\SinlgeResponsability\CarUnitTests.cs = UnitTests\SinlgeResponsability\CarUnitTests.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "after", "after", "{A85E8493-8AD8-4460-BC44-EDB85741AC25}"
+	ProjectSection(SolutionItems) = preProject
+		TDD_examples\SingleResponsability\BetterCar.cs = TDD_examples\SingleResponsability\BetterCar.cs
+		UnitTests\SinlgeResponsability\BetterCarUnitTests.cs = UnitTests\SinlgeResponsability\BetterCarUnitTests.cs
+		TDD_examples\Program.cs = TDD_examples\Program.cs
 	EndProjectSection
 EndProject
 Global
@@ -32,6 +39,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2168991F-5C9B-4E4D-B469-36AE40814B75} = {4B49464C-6CB7-4536-9ECD-5327075FE099}
+		{A85E8493-8AD8-4460-BC44-EDB85741AC25} = {4B49464C-6CB7-4536-9ECD-5327075FE099}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CB6CBA47-41D8-44A0-9188-72D30E0A4E77}

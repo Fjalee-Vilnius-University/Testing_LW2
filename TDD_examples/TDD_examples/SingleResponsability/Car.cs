@@ -2,7 +2,7 @@
 {
     public class Car
     {
-        private Engine _engine = new Engine();
+        private readonly Engine _engine = new Engine();
 
         public void Start()
         {
