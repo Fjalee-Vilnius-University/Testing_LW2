@@ -30,6 +30,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "before", "before", "{0E4CDD
 		TDD_examples\TheMockery\UserCreator.cs = TDD_examples\TheMockery\UserCreator.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TheGiant", "TheGiant", "{BAAE230E-00AC-4E5C-BFD1-CB1113D55E50}"
+	ProjectSection(SolutionItems) = preProject
+		UnitTests\TheGiant\BetterSyncerUnitTests.cs = UnitTests\TheGiant\BetterSyncerUnitTests.cs
+		UnitTests\TheGiant\SyncerUnitTests.cs = UnitTests\TheGiant\SyncerUnitTests.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

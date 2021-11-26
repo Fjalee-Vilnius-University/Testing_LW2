@@ -2,6 +2,9 @@
 {
     public class Program
     {
+        private static object _testOutputDir;
+
+        public static object DirectoryTool { get; private set; }
 
         static void Main()
         {

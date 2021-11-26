@@ -12,6 +12,13 @@ PRESENTATION
         Doesnt do anything
         indicates that code architecture/patterns should be changed
         
+    The Giant
+        Unit tests should "document" methods
+        Highly-coupled
+            inflexible
+            harder to change
+            fragile
+        Doesnt know which Assert breaks the code
 
 
 
