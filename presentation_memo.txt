@@ -1,5 +1,18 @@
 PRESENTATION
-    
+    SO
+        SO is hard to understand for junior dev
+        often senior devs would say that its intuitive
+        TDD helps understanding SO
+
+    The Mockery
+        Highly-coupled
+            inflexible
+            harder to change
+            fragile
+        Doesnt do anything
+        indicates that code architecture/patterns should be changed
+        
+
 
 
 NOTES
