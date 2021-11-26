@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "after", "after", "{A85E8493
 		TDD_examples\Program.cs = TDD_examples\Program.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TheMockery", "TheMockery", "{91195472-C7C7-423B-94AC-2DEF9236ADDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

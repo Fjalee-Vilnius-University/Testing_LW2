@@ -15,6 +15,5 @@
             BetterCar jetCar = new BetterCar(new JetCar());
         }
 
-        static void
     }
 }

@@ -12,3 +12,17 @@ C:\Users\Rytis\Desktop\Testing_LW2\TDD_examples\TDD_examples\bin\Debug\netcoreap
 C:\Users\Rytis\Desktop\Testing_LW2\TDD_examples\TDD_examples\obj\Debug\netcoreapp3.1\TDD_examples.dll
 C:\Users\Rytis\Desktop\Testing_LW2\TDD_examples\TDD_examples\obj\Debug\netcoreapp3.1\TDD_examples.pdb
 C:\Users\Rytis\Desktop\Testing_LW2\TDD_examples\TDD_examples\obj\Debug\netcoreapp3.1\TDD_examples.genruntimeconfig.cache
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\obj\Debug\netcoreapp3.1\TDD_examples.csproj.AssemblyReference.cache
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\obj\Debug\netcoreapp3.1\TDD_examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\obj\Debug\netcoreapp3.1\TDD_examples.AssemblyInfoInputs.cache
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\obj\Debug\netcoreapp3.1\TDD_examples.AssemblyInfo.cs
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\obj\Debug\netcoreapp3.1\TDD_examples.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\obj\Debug\netcoreapp3.1\TDD_examples.dll
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\obj\Debug\netcoreapp3.1\TDD_examples.pdb
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\bin\Debug\netcoreapp3.1\TDD_examples.exe
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\bin\Debug\netcoreapp3.1\TDD_examples.deps.json
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\bin\Debug\netcoreapp3.1\TDD_examples.runtimeconfig.json
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\bin\Debug\netcoreapp3.1\TDD_examples.runtimeconfig.dev.json
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\bin\Debug\netcoreapp3.1\TDD_examples.dll
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\bin\Debug\netcoreapp3.1\TDD_examples.pdb
+C:\Users\Rytis\Desktop\temp\Testing_LW2\TDD_examples\TDD_examples\obj\Debug\netcoreapp3.1\TDD_examples.genruntimeconfig.cache

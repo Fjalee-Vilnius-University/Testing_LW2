@@ -4,6 +4,7 @@ PRESENTATION
 
 NOTES
     Seperation - normally hard to decide what is single responsabiltiy
+
     Easy to refractor after we have test
     normal - u write code, u write test, and test might not even be used ever
 
@@ -25,9 +26,7 @@ NOTES
     we should test code that is seen externally
     testing methods that should be private would test not the outcome of the code but the implementation
 
-
     test covergaee is a bad practise - wrong behaviuors instead of real value
-
 
     private methods
 
@@ -44,4 +43,6 @@ NOTES
         testable - test proves it
         easy to maintain - SR
         efficient - 
+
+    
     
