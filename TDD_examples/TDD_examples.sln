@@ -24,6 +24,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "after", "after", "{A85E8493
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TheMockery", "TheMockery", "{91195472-C7C7-423B-94AC-2DEF9236ADDC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "before", "before", "{0E4CDDFF-5843-4159-B52B-7831F0C9BB8D}"
+	ProjectSection(SolutionItems) = preProject
+		UnitTests\TheMockery\UserCreationUnitTests.cs = UnitTests\TheMockery\UserCreationUnitTests.cs
+		TDD_examples\TheMockery\UserCreator.cs = TDD_examples\TheMockery\UserCreator.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +51,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{2168991F-5C9B-4E4D-B469-36AE40814B75} = {4B49464C-6CB7-4536-9ECD-5327075FE099}
 		{A85E8493-8AD8-4460-BC44-EDB85741AC25} = {4B49464C-6CB7-4536-9ECD-5327075FE099}
+		{0E4CDDFF-5843-4159-B52B-7831F0C9BB8D} = {91195472-C7C7-423B-94AC-2DEF9236ADDC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CB6CBA47-41D8-44A0-9188-72D30E0A4E77}
