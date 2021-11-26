@@ -21,7 +21,7 @@ namespace UnitTests.TheMockery
                 .Setup(e => e.IsValid(It.IsAny<string>()))
                 .Returns(true);
 
-            var userCreator = new UserCreator("", "", "", emailValidator.Object, passwordValidator.Object);
+            var userCreator = new UserCreator("Vladik", "password123.", "Vladik@gmail.com", emailValidator.Object, passwordValidator.Object);
 
             //Act
             var isValid = userCreator.IsValid();

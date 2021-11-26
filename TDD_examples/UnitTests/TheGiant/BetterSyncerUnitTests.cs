@@ -230,39 +230,6 @@ namespace Youtube_Playlost_Manager.IntegrationTests
             return expectedIdList.SequenceEqual(playlistItemsIds);
         }
 
-        [Ignore("Mock download was changed by real download")]
-        [Test, Order(4)]
-        [TestCase("m4a")]
-        [TestCase("mp4")]
-        public void AddMockDownloadedFile(string extension)
-        {
-            //Arrange
-            var mockId = "mockId" + extension;
-            var filePath = $"{_testOutputDir}\\mockRemotelyDeletedFile.{mockId}.{extension}";
-            var videoListFilePath = _testOutputDir + "\\" + _config.GetSection("youtubeDl");
-
-            //Act
-            MockDownloadFile(mockId, filePath, videoListFilePath);
-
-            //Asert file mock downloaded
-            var localFiles = Directory.GetFiles(_testOutputDir).ToList();
-
-            _afterMockExpectedDownloadedFiles.Add(filePath);
-
-            localFiles.Sort();
-            _afterMockExpectedDownloadedFiles.Sort();
-            Assert.AreEqual(localFiles, _afterMockExpectedDownloadedFiles);
-
-            //Asert id mock got added
-            var currentIds = ReadIds(videoListFilePath);
-
-            _afterMockexpectedDownloadedIds.Add($"youtube {mockId}");
-
-            _afterMockexpectedDownloadedIds.Sort();
-            currentIds.Sort();
-            Assert.AreEqual(localFiles, _afterMockExpectedDownloadedFiles);
-        }
-
         private void MockDownloadFile(string mockId, string filePath, string videoListFilePath)
         {
             File.Create(filePath).Close();

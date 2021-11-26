@@ -31,10 +31,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "before", "before", "{0E4CDD
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TheGiant", "TheGiant", "{BAAE230E-00AC-4E5C-BFD1-CB1113D55E50}"
-	ProjectSection(SolutionItems) = preProject
-		UnitTests\TheGiant\BetterSyncerUnitTests.cs = UnitTests\TheGiant\BetterSyncerUnitTests.cs
-		UnitTests\TheGiant\SyncerUnitTests.cs = UnitTests\TheGiant\SyncerUnitTests.cs
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "before", "before", "{0DDD2E14-80B4-4142-A324-C10A9DCB05E9}"
 	ProjectSection(SolutionItems) = preProject
