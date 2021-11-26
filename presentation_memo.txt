@@ -1,8 +1,8 @@
 PRESENTATION
-    SO
-        SO is hard to understand for junior dev
+    SR
+        SR is hard to understand for junior dev
         often senior devs would say that its intuitive
-        TDD helps understanding SO
+        TDD helps understanding SR
 
     The Mockery
         Highly-coupled
@@ -19,6 +19,13 @@ PRESENTATION
             harder to change
             fragile
         Doesnt know which Assert breaks the code
+
+
+
+
+
+
+
 
 
 
